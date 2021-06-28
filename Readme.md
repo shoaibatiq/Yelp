@@ -165,10 +165,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Upwork: https://www.upwork.com/freelancers/~01d990ae455f82dff9
-Email: shoaibatiq405@gmail.com
-Skype: live:shoaibatiq123
-Discord: Sc0rpi0N_1_#5704
+Upwork: https://www.upwork.com/freelancers/~01d990ae455f82dff9 </br>
+Email: shoaibatiq405@gmail.com </br>
+Skype: live:shoaibatiq123 </br>
+Discord: Sc0rpi0N_1_#5704 </br>
 
 
 Project Link: [https://github.com/shoaibatiq/Yelp](https://github.com/shoaibatiq/Yelp)
