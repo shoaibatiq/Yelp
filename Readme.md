@@ -48,7 +48,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -132,7 +131,7 @@ This code extracts restaurants data from yelp. It can collect data for any numbe
 
 ## Working Status
 
-####N/A
+***N/A***
 
 
 
